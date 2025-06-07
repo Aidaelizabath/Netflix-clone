@@ -34,7 +34,7 @@ Netflix-clone/
 ## 👩‍💻 Author
 
 *Aida Elizabath Varghese*  
-🌐 [LinkedIn](www.linkedin.com/in/aida-elizabath-varghese-ab4b9b34b)  
+🌐 [LinkedIn](https://www.linkedin.com/in/aida-elizabath-varghese-ab4b9b34b/)  
 📧 [Email Me](mailto:aiadelizabathvarghese2003@email.com)
 
 
